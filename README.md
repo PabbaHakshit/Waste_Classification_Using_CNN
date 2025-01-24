@@ -6,4 +6,6 @@ This project focuses on developing a Convolutional Neural Network (CNN) to class
 Dataset link (kaggle) : https://www.kaggle.com/datasets/techsash/waste-classification-data/data
 
 Model : "plastic_waste_model" 
+
+
 link (drive) : https://drive.google.com/file/d/1tKc2_6zUo-LB9A96bSfhimyE3cd02j6s/view?usp=sharing
